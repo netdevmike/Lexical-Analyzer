@@ -1,6 +1,3 @@
-Lexical Analyzer \
-Michael Charara
----
 # Lexical Analyzer Documentation
 
 ## Overview
