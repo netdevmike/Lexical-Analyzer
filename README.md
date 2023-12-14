@@ -1,4 +1,4 @@
-# Lexical Analyzer Documentation
+# Lexical Analyzer
 
 ## Overview
 
